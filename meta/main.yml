@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: Amazon-EC2
+  role_name: ec2-instance-role
   author: adityakumarsahu0707
   description: EC2 instance for AWS Cloud
   #company: ""
