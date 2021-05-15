@@ -9,7 +9,6 @@ region: "ap-south-1"
 count: 2
 key_path: "/root/key/adi_key_march.pem"
 inventory_path: "/ansible-playbooks/k8s-multinode-cluster/inventory"
-
 pip-sdk:
         - boto
         - boto3
